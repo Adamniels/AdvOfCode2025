@@ -1,0 +1,14 @@
+/Users/adamniels/Documents/AdventOfCode2025/src/AdventOfCode2025/bin/Debug/net9.0/AdventOfCode2025
+/Users/adamniels/Documents/AdventOfCode2025/src/AdventOfCode2025/bin/Debug/net9.0/AdventOfCode2025.deps.json
+/Users/adamniels/Documents/AdventOfCode2025/src/AdventOfCode2025/bin/Debug/net9.0/AdventOfCode2025.runtimeconfig.json
+/Users/adamniels/Documents/AdventOfCode2025/src/AdventOfCode2025/bin/Debug/net9.0/AdventOfCode2025.dll
+/Users/adamniels/Documents/AdventOfCode2025/src/AdventOfCode2025/bin/Debug/net9.0/AdventOfCode2025.pdb
+/Users/adamniels/Documents/AdventOfCode2025/src/AdventOfCode2025/obj/Debug/net9.0/AdventOfCode2025.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamniels/Documents/AdventOfCode2025/src/AdventOfCode2025/obj/Debug/net9.0/AdventOfCode2025.AssemblyInfoInputs.cache
+/Users/adamniels/Documents/AdventOfCode2025/src/AdventOfCode2025/obj/Debug/net9.0/AdventOfCode2025.AssemblyInfo.cs
+/Users/adamniels/Documents/AdventOfCode2025/src/AdventOfCode2025/obj/Debug/net9.0/AdventOfCode2025.csproj.CoreCompileInputs.cache
+/Users/adamniels/Documents/AdventOfCode2025/src/AdventOfCode2025/obj/Debug/net9.0/AdventOfCode2025.dll
+/Users/adamniels/Documents/AdventOfCode2025/src/AdventOfCode2025/obj/Debug/net9.0/refint/AdventOfCode2025.dll
+/Users/adamniels/Documents/AdventOfCode2025/src/AdventOfCode2025/obj/Debug/net9.0/AdventOfCode2025.pdb
+/Users/adamniels/Documents/AdventOfCode2025/src/AdventOfCode2025/obj/Debug/net9.0/AdventOfCode2025.genruntimeconfig.cache
+/Users/adamniels/Documents/AdventOfCode2025/src/AdventOfCode2025/obj/Debug/net9.0/ref/AdventOfCode2025.dll
